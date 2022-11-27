@@ -1,6 +1,6 @@
 # damnhi
-<h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">A passionate IT and AI student from Krakow Poland</h3>
+Hi
+<h3 align="center">A passionate CS student from Cracow Poland</h3>
 
 - 🔭 I’m currently working on **UnPause App**
 
