@@ -1,5 +1,3 @@
-# damnhi
-Hi
 <h3 align="center">A passionate CS student from Cracow Poland</h3>
 
 - 🔭 I’m currently working on **UnPause App**
