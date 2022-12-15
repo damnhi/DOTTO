@@ -12,5 +12,5 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 <p>This is my website: https://damnhi.github.io/ </p>
-Forked repo: https://github.com/damnhi/PTVS.git
-Article link: https://paperswithcode.com/paper/pythia-ai-assisted-code-completion-system
+<p>Forked repo: https://github.com/damnhi/PTVS.git </p>
+<p>Article link: https://paperswithcode.com/paper/pythia-ai-assisted-code-completion-system</p>
