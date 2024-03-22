@@ -1,16 +1,4 @@
-<h3 align="center">A passionate CS student from Cracow Poland</h3>
+### About Me
 
-- 🔭 I’m currently working on **UnPause App**
-
-- 🌱 I’m currently learning **C and Python**
-
-
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
-<p>This is my website: https://damnhi.github.io/ </p>
-<p>Forked repo: https://github.com/damnhi/PTVS.git </p>
-<p>Article link: https://paperswithcode.com/paper/pythia-ai-assisted-code-completion-system</p>
+👋 Hi there! I'm a second-year **Computer Science and Intelligent Systems** student with a passion for technology and innovation.
+👨‍💻🚤 Currently, I'm part of the **AGH Solar Boat** team, working on a autonomous boat.
